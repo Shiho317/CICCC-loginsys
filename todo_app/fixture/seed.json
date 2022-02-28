@@ -1,0 +1,79 @@
+[
+  {
+    "model": "todo_app.todo",
+    "fields":{
+      "user_id": 1,
+      "title":"Task 1",
+      "memo": "delectus aut autem",
+      "created":"2019-06-04T15:43:29.899",
+      "datecompleted":null,
+      "important": 0
+    }
+  },
+  {
+    "model": "todo_app.todo",
+    "fields":{
+      "user_id": 1,
+      "title":"Task 2",
+      "memo": "quis ut nam facilis et officia qui",
+      "created":"2019-06-04T15:43:29.899",
+      "datecompleted":null,
+      "important": 0
+    }
+  },
+  {
+    "model": "todo_app.todo",
+    "fields":{
+      "user_id": 1,
+      "title":"Task 3",
+      "memo": "fugiat veniam minus",
+      "created":"2019-06-04T15:43:29.899",
+      "datecompleted":null,
+      "important": 0
+    }
+  },
+  {
+    "model": "todo_app.todo",
+    "fields":{
+      "user_id": 1,
+      "title":"Task 4",
+      "memo": "et porro tempora",
+      "created":"2019-06-04T15:43:29.899",
+      "datecompleted":null,
+      "important": 0
+    }
+  },
+  {
+    "model": "todo_app.todo",
+    "fields":{
+      "user_id": 1,
+      "title":"Task 5",
+      "memo": "laboriosam mollitia et enim quasi adipisci quia provident illum",
+      "created":"2019-06-04T15:43:29.899",
+      "datecompleted":null,
+      "important": 0
+    }
+  },
+  {
+    "model": "todo_app.todo",
+    "fields":{
+      "user_id": 1,
+      "title":"Task 6",
+      "memo": "qui ullam ratione quibusdam voluptatem quia omnis",
+      "created":"2019-06-04T15:43:29.899",
+      "datecompleted":null,
+      "important": 0
+    }
+  },
+  {
+    "model": "todo_app.todo",
+    "fields":{
+      "user_id": 1,
+      "title":"Task 7",
+      "memo": "illo expedita consequatur quia in",
+      "created":"2019-06-04T15:43:29.899",
+      "datecompleted":null,
+      "important": 0
+    }
+  }
+]
